@@ -1,3 +1,5 @@
+-- test
+
 fontType = {-- (1)font (2)scale offset
 	["default"] = {"default", 1},
 	["default-bold"] = {"default-bold",1},
